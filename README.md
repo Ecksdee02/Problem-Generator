@@ -4,6 +4,7 @@ Road to Success
 MariHacks 2020 Project
 Team Reddish ---
 Shilin Sun
-RuMing Shi
+Ruming Shi
 Xin Cheng Shen
 Xuanning Yang
+甚红
